@@ -2,6 +2,6 @@
 
 Bluetooth seri haberleşme uygulaması
 
-Uygulamayı indirmek için bağlantıya tıklayın 👇
+Play Store linki 👇
 
 https://play.google.com/store/apps/details?id=dev.nodeum.deneyap
